@@ -1,3 +1,5 @@
+
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/edit/angular-ofd7p7)
 # Directives
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.0.
